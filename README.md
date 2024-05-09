@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Learning MERN<br>👯 I’m looking to collaborate on Cybersecurity Projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about Python, Frontend<br>
 
 
