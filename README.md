@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Learning MERN<br>👯 I’m looking to collaborate on Cybersecurity Projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about Python, Frontend<br>
+🔭 I’m currently working on Learning MERN<br>👯 I’m looking to collaborate on MERN/Cybersec Projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about MERN<br>
 
 
 # 💻 Tech Stack:
@@ -11,10 +11,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Melvin&icon=0&color=0)](https://visitcount.itsvg.in)
 
